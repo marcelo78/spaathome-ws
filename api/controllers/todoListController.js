@@ -1,6 +1,7 @@
 'use strict';
 
 var mongoose = require('mongoose'), Task = mongoose.model('Tasks');
+var file = require('../config_bnc_v1-1.json');
 
 exports.list_all_tasks = function(req, res) {
   Task.find({}, function(err, task) {
@@ -48,4 +49,11 @@ exports.delete_a_task = function(req, res) {
     }
     res.json({ message: 'Task successfully deleted' });
   });
+};
+
+exports.show_json = function(req, res) {
+  res.setHeader('Content-Type', 'application/json');
+  //res.send(JSON.stringify({ a: 1 }));
+  res.send(JSON.stringify(file));
+
 };
