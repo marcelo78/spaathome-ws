@@ -6,7 +6,7 @@
         "background_button_login":"#E41923"
     },
     "Privacy":{
-        "pdf_view":"Politique_fr.pdf/Politique_en.pdf"
+        "pdf_view":"Politique.pdf"
     },
     "Onbording":{
         "image_onbording_1":"onboarding_ecran_1_design.png",
@@ -20,10 +20,12 @@
         "Image_defi6":"icon_defi_6.png",
         "background_onbording2":"#FFFFFF",
         "text_color_onbording2":"#000000",
-        "image_onbording_3":"onboarding_connectors_1.png/ onboarding_connectors_2_all_sans_ligne.png",
+        "image_onbording_3_1":"onboarding_connectors_1.png",
+        "image_onbording_3_2":"onboarding_connectors_2_all_sans_ligne.png",
         "background_onbording3":"#00324D",
         "text_color_onbording3":"#FFFFFF ",
-        "image_onbording_4":"onboarding_ecran4.png/onboarding_ecran4_fleche.png",
+        "image_onbording_4_1":"onboarding_ecran4.png",
+        "image_onbording_4_2":"onboarding_ecran4_fleche.png",
         "background_onbording4":"#FFFFFF",
         "text_color_onbording4":"#000000"
     },
@@ -59,7 +61,7 @@
         "text_color_profile":"#FFFFFF",
         "background_button_profile":"#E41923",
         "background_button_ profile_pressed":"#E31937",
-        "terms_conditions_fr":"Politique_fr.pdf/Politique_en.pdf"
+        "terms_conditions":"Politique.pdf"
     },
     "Home":{
         "background_home":"bg_l.png",
