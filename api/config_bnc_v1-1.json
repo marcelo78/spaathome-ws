@@ -69,10 +69,10 @@
         "text_color_header":"#FF383838",
         "text_color_description":"#FF383838",
         "text_color_progress":"#FF383838",
-        "progress_color_bar":" #E41923",
-        "background_challenge_home":"picture_grimpeur.png"
+        "progress_color_bar":" #E41923"
     },
     "Challenge":{
+        "background_challenge_home":"picture_grimpeur.png",
         "text_color_title":"#FFFFFF",
         "text_color_subtitle":"#FFFFFF",
         "tab_color_default":"#E41923",
