@@ -59,7 +59,7 @@
     "Profile":{
         "background_profile":"launchpad_bg.png",
         "text_color_profile":"#FFFFFF",
-        "background_button_profile":"#E41923",
+        "background_button_profile":"#66ff33",
         "background_button_ profile_pressed":"#E31937",
         "terms_conditions":"Politique.pdf"
     },
