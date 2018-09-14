@@ -1,9 +1,9 @@
 {
     "login":{
-        "image_login":"logo.png",
-        "background_login":" login_bg.png",
-        "text_color_button":"#FFFFFF",
-        "background_button_login":"#E41923"
+        "imageLogin":"logo.png",
+        "backgroundLogin":" login_bg.png",
+        "textColorButton":"#FFFFFF",
+        "backgroundButtonLogin":"#E41923"
     },
     "privacy":{
         "pdf_view":"Politique.pdf"
