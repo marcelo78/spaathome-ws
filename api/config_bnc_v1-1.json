@@ -1,14 +1,14 @@
 {
-    "login":{
-        "imageLogin":"logo.png",
-        "backgroundLogin":" login_bg.png",
-        "textColorButton":"#FFFFFF",
-        "backgroundButtonLogin":"#E41923"
+    "Login":{
+        "image_login":"logo.png",
+        "background_login":" login_bg.png",
+        "text_color_button":"#FFFFFF",
+        "background_button_login":"#E41923"
     },
-    "privacy":{
+    "Privacy":{
         "pdf_view":"Politique.pdf"
     },
-    "onbording":{
+    "Onbording":{
         "image_onbording_1":"onboarding_ecran_1_design.png",
         "background_onbording1":"#E41923",
         "text_color_onbording1":"#FFFFFF",
@@ -29,7 +29,7 @@
         "background_onbording4":"#FFFFFF",
         "text_color_onbording4":"#000000"
     },
-    "assessment":{
+    "Assessment":{
         "background_assessment1_dashboard":"bg_bleu.png",
         "text_color_assessment1":"#FFFFFF",
         "background_assessment2_dashboard":"bg_bleu.png",
@@ -56,14 +56,14 @@
         "background_assessment4":"bg_assessment_question.png",
         "text_color_assessment4":"#FFFFFF"
     },
-    "profile":{
+    "Profile":{
         "background_profile":"launchpad_bg.png",
         "text_color_profile":"#FFFFFF",
         "background_button_profile":"#E41923",
         "background_button_ profile_pressed":"#E31937",
         "terms_conditions":"Politique.pdf"
     },
-    "home":{
+    "Home":{
         "background_home":"bg_l.png",
         "text_color_circular_progress_bar":"#FFFFFF",
         "text_color_header":"#FF383838",
@@ -71,7 +71,7 @@
         "text_color_progress":"#FF383838",
         "progress_color_bar":" #E41923"
     },
-    "challenge":{
+    "Challenge":{
         "background_challenge_home":"picture_grimpeur.png",
         "text_color_title":"#FFFFFF",
         "text_color_subtitle":"#FFFFFF",
@@ -139,7 +139,7 @@
         "background_success":"bg_balloones.png",
         "text_color_success":"#FFFFFF"
     },
-    "statistics":{
+    "Statistics":{
         "background_statistics":"bg_bleu.png",
         "tab_color_default":"#E41923",
         "tab_color_selected":"#FFFFFF",
