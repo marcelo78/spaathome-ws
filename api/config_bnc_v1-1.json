@@ -143,6 +143,8 @@
         "background_statistics":"bg_bleu.png",
         "tab_color_default":"#E41923",
         "tab_color_selected":"#FFFFFF",
+        "text_tab_color_default":"#FFFFFF",
+        "text_tab_color_selected":"#FF6D6E70",
         "background_text_type_report":"#EEF9F9F9",
         "background_text_border_type_report":"#002326",
         "text_color_type_report":"#000000",
