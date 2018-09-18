@@ -139,8 +139,8 @@
         "text_color_select_team":"#FFFFFF",
         "background_success":"bg_balloones.png",
         "text_color_success":"#FFFFFF",
-        "text_tab_color_default":"#FFFFFF",
-        "text_tab_color_selected":"#FF6D6E70"
+        "text_tab_color_default":"#FF00FF",
+        "text_tab_color_selected":"#FF0070"
     },
     "Statistics":{
         "background_statistics":"bg_bleu.png",
