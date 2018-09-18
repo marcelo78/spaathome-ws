@@ -54,7 +54,8 @@
         "background_button_border_assessment3":"#FFFFFF",
         "background_button_border_assessment3_pressed":"#FFFFFF",
         "background_assessment4":"bg_assessment_question.png",
-        "text_color_assessment4":"#FFFFFF"
+        "text_color_assessment4":"#FFFFFF",
+        "progress_color_bar":"#000000"
     },
     "Profile":{
         "background_profile":"launchpad_bg.png",
