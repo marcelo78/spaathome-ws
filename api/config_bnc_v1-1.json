@@ -138,10 +138,8 @@
         "text_color_select_team":"#FFFFFF",
         "background_success":"bg_balloones.png",
         "text_color_success":"#FFFFFF",
-        "tab_color_new_challenge_default":"E41923",
-        "tab_color_new_challenge_selected":"#FFFFFF",
-        "text_tab_color_new_challenge_default":"#FFFFFF",
-        "text_tab_color_new_challenge_selected":"#FF6D6E70"
+        "text_tab_color_default":"#FFFFFF",
+        "text_tab_color_selected":"#FF6D6E70"
     },
     "Statistics":{
         "background_statistics":"bg_bleu.png",
