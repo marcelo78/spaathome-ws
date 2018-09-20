@@ -55,13 +55,13 @@
         "background_button_border_assessment3_pressed":"#FFFFFF",
         "background_assessment4":"bg_assessment_question.png",
         "text_color_assessment4":"#FFFFFF",
-        "progress_color_bar":"#000000"
+        "progress_color_bar":"#E41923"
     },
     "Profile":{
         "background_profile":"launchpad_bg.png",
         "text_color_profile":"#FFFFFF",
         "background_button_profile":"#E41923",
-        "background_button_ profile_pressed":"#E31937",
+        "background_button_profile_pressed":"#E31937",
         "terms_conditions":"Politique.pdf"
     },
     "Home":{
@@ -116,8 +116,8 @@
         "background_color_foreign_message_chat_challenge":"#C9FFFFFF",
         "background_color_foreign_message_border_chat_challenge":"#FFFFFF",
         "text_color_foreign_message_chat_challenge":"#000000",
-        "background_edit_text_chat_challenge":"",
-        "edit_text_color_chat_challenge":"",
+        "background_edit_text_chat_challenge":"#40ffffff",
+        "edit_text_color_chat_challenge":"#FFFFFF",
         "edit_text_color_hint_chat_challenge":"#40FFFFFF",
         "background_new_team":"bg_bleu.png",
         "text_color_new_team":"#FFFFFF",
@@ -139,8 +139,8 @@
         "text_color_select_team":"#FFFFFF",
         "background_success":"bg_balloones.png",
         "text_color_success":"#FFFFFF",
-        "text_tab_color_default":"#FF00FF",
-        "text_tab_color_selected":"#FF0070"
+        "text_tab_color_default":"#FFFFFF",
+        "text_tab_color_selected":"#FF6D6E70"
     },
     "Statistics":{
         "background_statistics":"bg_bleu.png",
